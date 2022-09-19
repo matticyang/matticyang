@@ -1,17 +1,27 @@
-### Hi there 👋
+# Matthew Yang
 
-<!--
-**matticyang/matticyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Developer
+- matty.yang@mail.utoronto.ca
 
-Here are some ideas to get you started:
+## Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-4th year CS at UofT
+- [GitHub](https://github.com/matticyang)
+- [LinkedIn](https://www.linkedin.com/in/matthew-yang-122816171)
+- [Website](https://www.monkeydmatt.com/)
+
+## About Matthew
+
+Matthew is from Taiwan where he has professional experience as backend software engineer. He also has some experience with frontend development, unit testing, system design work through internship experience and personal project. Matthew enjoys using Python and java, while his favorite framework is Django. Matthew is currently a 4th-year Computer Science student at University of Toronto. Some of his hobbies include playing basketball, working out, watching movies, and reading.
+
+## Strengths
+
+- Backend software engineering
+- Team player and good communicator
+- Some experience in AI, ML and Computer graphics
+- Expereinced in working in a professional environment
+
+## Weaknesses
+
+- UX, designing user friendly interfaces.
+- Gets tired easily
+- Often impatient, wanted to finish everything quickly
