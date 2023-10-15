@@ -1,7 +1,7 @@
 # Matthew Yang
 
 - Software Developer
-- matty.yang@mail.utoronto.ca
+- yangmattic@gmail.com
 
 ## Links
 
@@ -11,7 +11,7 @@
 
 ## About Matthew
 
-Matthew is from Taiwan where he has professional experience as backend software engineer. He also has some experience with frontend development, unit testing, system design work through internship experience and personal project. Matthew enjoys using Python and java, while his favorite framework is Django. Matthew is currently a 4th-year Computer Science student at University of Toronto. Some of his hobbies include playing basketball, working out, watching movies, and reading.
+I have professional experience as backend software engineer. I also have experience with frontend engineering, unit testing, system design work through professional experience and personal projects. My favorite programming languages are Python and java, while his favorite framework is Django. I am currently an Associated Software Developer at Ontario Teachers' Pension Plan. I graduated from University of Toronto. Some of his hobbies include playing basketball, working out, watching movies, and reading.
 
 ## Strengths
 
